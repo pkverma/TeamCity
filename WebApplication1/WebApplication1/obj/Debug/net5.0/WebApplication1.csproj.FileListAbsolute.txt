@@ -1,0 +1,7 @@
+D:\Development\dotnet\WebApp\TeamCity\WebApplication1\WebApplication1\obj\Debug\net5.0\WebApplication1.csproj.AssemblyReference.cache
+D:\Development\dotnet\WebApp\TeamCity\WebApplication1\WebApplication1\obj\Debug\net5.0\WebApplication1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Development\dotnet\WebApp\TeamCity\WebApplication1\WebApplication1\obj\Debug\net5.0\WebApplication1.AssemblyInfoInputs.cache
+D:\Development\dotnet\WebApp\TeamCity\WebApplication1\WebApplication1\obj\Debug\net5.0\WebApplication1.AssemblyInfo.cs
+D:\Development\dotnet\WebApp\TeamCity\WebApplication1\WebApplication1\obj\Debug\net5.0\WebApplication1.csproj.CoreCompileInputs.cache
+D:\Development\dotnet\WebApp\TeamCity\WebApplication1\WebApplication1\obj\Debug\net5.0\WebApplication1.MvcApplicationPartsAssemblyInfo.cs
+D:\Development\dotnet\WebApp\TeamCity\WebApplication1\WebApplication1\obj\Debug\net5.0\WebApplication1.MvcApplicationPartsAssemblyInfo.cache
