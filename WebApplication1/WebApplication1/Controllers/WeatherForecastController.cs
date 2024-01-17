@@ -6,10 +6,10 @@ namespace WebApplication1.Controllers
     [Route("[controller]")]
     public class WeatherForecastController : ControllerBase
     {
-        //OctopusDeploy API Key
+        //OctopusDeploy API Key:API-5XEMLWKXZIYOIQN3JSELZVOTHZCDC
         private static readonly string[] Summaries = new[]
         {
-        "Testing10","Freezing", "Bracing", "Chilly", "Cool", "Mild", "Warm", "Balmy", "Hot", "Sweltering", "Scorching"
+        "Testing11","Freezing", "Bracing", "Chilly", "Cool", "Mild", "Warm", "Balmy", "Hot", "Sweltering", "Scorching"
     };
 
         private readonly ILogger<WeatherForecastController> _logger;
