@@ -6,6 +6,7 @@ namespace WebApplication1.Controllers
     [Route("[controller]")]
     public class WeatherForecastController : ControllerBase
     {
+        //OctopusDeploy API Key
         private static readonly string[] Summaries = new[]
         {
         "Testing10","Freezing", "Bracing", "Chilly", "Cool", "Mild", "Warm", "Balmy", "Hot", "Sweltering", "Scorching"
