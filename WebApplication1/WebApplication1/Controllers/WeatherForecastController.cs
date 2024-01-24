@@ -9,7 +9,7 @@ namespace WebApplication1.Controllers
         //OctopusDeploy API Key:API-5XEMLWKXZIYOIQN3JSELZVOTHZCDC
         private static readonly string[] Summaries = new[]
         {
-        "Testing12","Freezing", "Bracing", "Chilly", "Cool", "Mild", "Warm", "Balmy", "Hot", "Sweltering", "Scorching"
+        "Testing123","Freezing", "Bracing", "Chilly", "Cool", "Mild", "Warm", "Balmy", "Hot", "Sweltering", "Scorching"
     };
 
         private readonly ILogger<WeatherForecastController> _logger;
